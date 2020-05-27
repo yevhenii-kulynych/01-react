@@ -1,0 +1,15 @@
+
+.main-content {
+  height: 100vh;
+}
+.inner {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+h2 {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,21 @@
+
+.book {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  padding: 10px;
+  height: 450px;
+}
+
+.img-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+
+.thumbnail {
+  margin-right: 10px;
+  max-width: 128px;
+  max-height: 182px;
+  display: block;
+}

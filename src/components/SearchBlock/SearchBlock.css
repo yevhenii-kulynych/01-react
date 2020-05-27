@@ -1,0 +1,8 @@
+
+.search-block {
+  display: flex;
+  justify-content: flex-start;
+  background-color: #446488;
+  padding: 20px 10px;
+  height: 75px;
+}

@@ -1,0 +1,12 @@
+
+.add-btn {
+  color: white;
+  background-color: #2F6FAD;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: sans-serif;
+  padding: 5px 20px;
+  border: none;
+  cursor: pointer;
+}
+
